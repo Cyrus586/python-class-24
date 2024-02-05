@@ -1,14 +1,20 @@
 from datetime import datetime
+
+# EXAMPLE 1
 def helloWorld():
     print("Hello World")
 
 helloWorld()
 
+# EXAMPLE 2
 def time():
     current_time = datetime.now().strftime('%H:%M:%S')
-    print(f'Current time: {current_time}' )
+    print('Current time:', current_time)
 
 time()
+
+
+# EXAMPLE 3
 
 def add(item1, item2):
     result = item1 + item2
