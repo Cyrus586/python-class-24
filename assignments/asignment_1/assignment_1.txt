@@ -1,0 +1,46 @@
+1. IS PYTHON USED IN BACKEND OR FRONTEND
+   
+   Python is comonly used in backend dev, but it can
+   also be used in frontend dev to a certain level or extent
+
+   EXAMPLES [
+
+        BACKEND
+            Python is widely used for backend dev.
+            Popular web frameworks like Django and
+            are comonly used to create robust and
+            scalable server-side applications
+
+        FRONTEND
+
+            There are scenarios where it can be used
+            in combination with js
+
+    ]
+
+
+2. WHAT IS GIT AND THE USE OF GIT IN PYTHON
+
+   GIT
+        is a distributed version control system that enables developers
+        to track changes in their source code during software development
+
+   USES OF GIT IN PYTHON
+        - contains all files and metadata needed for version control
+        - it is used in Python dev to manage the source code of projects
+        - Python projects often involve collaboration among many developers
+    
+    
+
+
+3.  WHAT ARE TOOLS USED FOR SOFTWARE DEV IN PYTHON
+
+        - IDE (intergrated development environments) eg pycharm, vscode
+        - Text editors eg sublime text, Atom
+        - Package managers eg pip, conda
+        - version control eg git, github, bitbucket
+
+
+
+
+4.

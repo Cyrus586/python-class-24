@@ -1,0 +1,21 @@
+1. DIFFERENCE BTWN A PARAMETER AND AN ARGUMENT IN A FUNCTION
+*. A parameter is avariable used in the function definition
+   but an argument is the actual value or expression passed
+   to a function when it is called.
+
+*. Parameters are part of the function  definition and act
+   as placeholders for value but Arguments are the values
+   passed to a function when calling it.
+
+*. Parameters serve as local variables within the function
+   and represent the input values expected by the function
+   but Arguments are the actual values used during the
+   execution of the function
+
+
+
+2. WHAT IS THE USE OF RETURN IN A FUNCTION
+
+*. it is used to send a value or result back
+   to the caller of the function 
+
