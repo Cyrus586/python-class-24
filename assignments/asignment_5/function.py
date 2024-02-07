@@ -1,10 +1,5 @@
 from datetime import datetime
 
-# EXAMPLE 1
-def helloWorld():
-    print("Hello World")
-
-helloWorld()
 
 # EXAMPLE 2
 def time():
@@ -12,6 +7,16 @@ def time():
     print('Current time:', current_time)
 
 time()
+
+
+
+# EXAMPLE 1
+def helloWorld():
+    print("Hello World")
+
+helloWorld()
+
+
 
 
 # EXAMPLE 3
@@ -24,16 +29,5 @@ add(17, 10)
 add('Hello ', 'World')
 
 
-def Name(): 
-    name = input('Enter your Name?: ') 
-    return name  
 
-
-
-
-def Age(): 
-    age = input('Enter your age?: ') 
-    print(Name(), age)
-    
-Age()
 

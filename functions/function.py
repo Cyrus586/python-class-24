@@ -12,5 +12,16 @@ def inputs(n1, n2):
     print('The summed value is:', result1)
 inputs(10,20)
 
+def Name(): 
+    name = input('Enter your Name?: ') 
+    return name  
 
+
+
+
+def Age(): 
+    age = input('Enter your age?: ') 
+    print(Name(), age)
+    
+Age()
 
