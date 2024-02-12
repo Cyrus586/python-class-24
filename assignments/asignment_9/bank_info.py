@@ -13,7 +13,7 @@ print("-----------------------------")
 
 if (user_option == "a" or user_option == "A"):
     withdraw = float(input("Enter amount to be withdrawn: "))
-    account_balance = int(input("Enter the current amount in your bank account: "))
+    account_balance = float(input("Enter the current amount in your bank account: "))
     
     def subtract_amount(withdraw, account_balance):
         result = account_balance - withdraw 
@@ -24,7 +24,7 @@ if (user_option == "a" or user_option == "A"):
     
 elif user_option == "b" or user_option == "B":
     deposit = float(input("Enter amount to be deposited: "))
-    account_balance = account_balance = int(input("Enter the current amount in your bank account: "))
+    account_balance = account_balance = float(input("Enter the current amount in your bank account: "))
     
     def add_amount(deposit, account_balance):
         result = account_balance + deposit
@@ -36,6 +36,9 @@ else:
     print("Something went wrong, you might have entered a wrong option:", user_option)
 
 
+print("=====================================")
+print("EXAMPLE 2")
+
 # EXAMPLE 2
 def deposit(balance, amount):
     "Function to deposit money"
@@ -44,11 +47,11 @@ def deposit(balance, amount):
 
 def withdraw(balance,amount):
     "Function to withdraw money"
-    if amount <= balance:
+    if amount <= balance: # checks if a user is eligable to withdraw
         balance -= amount
-        return balance, True
+        return balance, True # if their is money in the bank it will be successful
     else:
-        return balance, False
+        return balance, False # if their is no money in the bank it will be unsuccessful
 
 def bank_info():
     "Function for user interaction"
@@ -64,7 +67,7 @@ def bank_info():
         if choice == "a" or choice == "A":
             amount = float(input("Enter the amount to deposit: "))
             balance = deposit(balance, amount)
-            print(f"Deposit of {amount} was successful. Current balance: shs.{balance}")
+            print(f"Deposit of shs.{amount} was successful. Current balance: shs.{balance}")
         elif choice == "b" or choice == "B":
             amount = float(input("Enter the amount to withdraw: "))
             balance,  success = withdraw(balance, amount)
@@ -78,5 +81,4 @@ def bank_info():
         else:
             print("Something went wrong, you might have entered a wrong option:", choice)
 
-if __name__ == "__main__":
-    bank_info()
+bank_info()

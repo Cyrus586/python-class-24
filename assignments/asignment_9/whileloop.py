@@ -4,10 +4,10 @@ def Checking_num():
     counter = 0 # responsible for counting the even or odd nums
     while counter < len(numbers):
         # using an if statement to check if the current is even
-        if numbers[counter] % 2 == 0: # this is the even if statement
+        if numbers[counter] % 2 == 0: # this is the even if statement which checks if there are numbers that can be divisable by 2 
             print(f"{numbers[counter]} is even")
         else:
-            print(f"{numbers[counter]} is odd")
+            print(f"{numbers[counter]} is odd") # this else automatically 
         counter += 1
     # end while
     print("----------------------------------")
@@ -39,7 +39,7 @@ def vowels():
 
     for student in students:
         # using an if statement to check if the current element ends with a vowel
-        if student[-1].lower() in ["a","e","i","o","u"]:
+        if student[-1].upper() in ["a","e","i","o","u"]:
             print(f"{student} ends with a vowels")
         else:
             print(f"{student} does not ends with a vowels")

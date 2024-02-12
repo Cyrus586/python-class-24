@@ -25,7 +25,9 @@ def input_day():
 input_day()
 
 
-print("-----------------------------------------")
+print("=====================================")
+print("EXAMPLE 2")
+
 
 
 
@@ -33,7 +35,6 @@ print("-----------------------------------------")
 # using the import method `datetime` which tells us the current day 
 
 def current_daytime():
-    print("EXAMPLE 2")
     current_day = datetime.now().weekday() + 1
     if current_day == 1:
         return "Monday: Planing and Organizing for the week ahead"
