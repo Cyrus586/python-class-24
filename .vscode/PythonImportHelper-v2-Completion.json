@@ -1,0 +1,1305 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "month",
+        "kind": 5,
+        "importPath": "assignments.asignment_1.hello_world",
+        "description": "assignments.asignment_1.hello_world",
+        "peekOfCode": "month = \"January\"\nage=30\nis_teacher = True\nprint(month)\nprint(age)\nprint(is_teacher)",
+        "detail": "assignments.asignment_1.hello_world",
+        "documentation": {}
+    },
+    {
+        "label": "is_teacher",
+        "kind": 5,
+        "importPath": "assignments.asignment_1.hello_world",
+        "description": "assignments.asignment_1.hello_world",
+        "peekOfCode": "is_teacher = True\nprint(month)\nprint(age)\nprint(is_teacher)",
+        "detail": "assignments.asignment_1.hello_world",
+        "documentation": {}
+    },
+    {
+        "label": "area",
+        "kind": 5,
+        "importPath": "assignments.asignment_2.assignment2",
+        "description": "assignments.asignment_2.assignment2",
+        "peekOfCode": "area = 76\nprint(area)\narea = 45\nprint(area)",
+        "detail": "assignments.asignment_2.assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "area",
+        "kind": 5,
+        "importPath": "assignments.asignment_2.assignment2",
+        "description": "assignments.asignment_2.assignment2",
+        "peekOfCode": "area = 45\nprint(area)",
+        "detail": "assignments.asignment_2.assignment2",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.case",
+        "description": "assignments.asignment_3.case",
+        "peekOfCode": "name = \"Aksam\"\nName = \"Cyrus\"\nprint(\"Example 1:\")\nprint(name)\nprint(Name)\n# example 2\nuserAge = 12\nprint(\"Example 2:\")\nprint(userAge)\n# example 3",
+        "detail": "assignments.asignment_3.case",
+        "documentation": {}
+    },
+    {
+        "label": "Name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.case",
+        "description": "assignments.asignment_3.case",
+        "peekOfCode": "Name = \"Cyrus\"\nprint(\"Example 1:\")\nprint(name)\nprint(Name)\n# example 2\nuserAge = 12\nprint(\"Example 2:\")\nprint(userAge)\n# example 3\nPhone_Number = \"0709667917\"",
+        "detail": "assignments.asignment_3.case",
+        "documentation": {}
+    },
+    {
+        "label": "userAge",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.case",
+        "description": "assignments.asignment_3.case",
+        "peekOfCode": "userAge = 12\nprint(\"Example 2:\")\nprint(userAge)\n# example 3\nPhone_Number = \"0709667917\"\nprint(\"Example 3:\")\nprint(Phone_Number)",
+        "detail": "assignments.asignment_3.case",
+        "documentation": {}
+    },
+    {
+        "label": "Phone_Number",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.case",
+        "description": "assignments.asignment_3.case",
+        "peekOfCode": "Phone_Number = \"0709667917\"\nprint(\"Example 3:\")\nprint(Phone_Number)",
+        "detail": "assignments.asignment_3.case",
+        "documentation": {}
+    },
+    {
+        "label": "int_val",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.casting",
+        "description": "assignments.asignment_3.casting",
+        "peekOfCode": "int_val = 42\nstr_val = str(int_val)\nprint(\"Original integer: \", int_val)\nprint(\"converted integer\", str_val)\n# string to float\nfloat_string = \"3.14\"\nfloat_value = float(float_string)\nprint(\"Original string\", float_string)\nprint(\"converted Float\", float_value)\n# concatenating strings",
+        "detail": "assignments.asignment_3.casting",
+        "documentation": {}
+    },
+    {
+        "label": "str_val",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.casting",
+        "description": "assignments.asignment_3.casting",
+        "peekOfCode": "str_val = str(int_val)\nprint(\"Original integer: \", int_val)\nprint(\"converted integer\", str_val)\n# string to float\nfloat_string = \"3.14\"\nfloat_value = float(float_string)\nprint(\"Original string\", float_string)\nprint(\"converted Float\", float_value)\n# concatenating strings\nfirst_name = \"Aksam\"",
+        "detail": "assignments.asignment_3.casting",
+        "documentation": {}
+    },
+    {
+        "label": "float_string",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.casting",
+        "description": "assignments.asignment_3.casting",
+        "peekOfCode": "float_string = \"3.14\"\nfloat_value = float(float_string)\nprint(\"Original string\", float_string)\nprint(\"converted Float\", float_value)\n# concatenating strings\nfirst_name = \"Aksam\"\nlast_name = \"Cyrus\"\nfull_name = first_name + \" \" + last_name \nprint(\"first name:\", first_name)\nprint(\"last name:\", last_name)",
+        "detail": "assignments.asignment_3.casting",
+        "documentation": {}
+    },
+    {
+        "label": "float_value",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.casting",
+        "description": "assignments.asignment_3.casting",
+        "peekOfCode": "float_value = float(float_string)\nprint(\"Original string\", float_string)\nprint(\"converted Float\", float_value)\n# concatenating strings\nfirst_name = \"Aksam\"\nlast_name = \"Cyrus\"\nfull_name = first_name + \" \" + last_name \nprint(\"first name:\", first_name)\nprint(\"last name:\", last_name)\nprint(\"full name:\", full_name)",
+        "detail": "assignments.asignment_3.casting",
+        "documentation": {}
+    },
+    {
+        "label": "first_name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.casting",
+        "description": "assignments.asignment_3.casting",
+        "peekOfCode": "first_name = \"Aksam\"\nlast_name = \"Cyrus\"\nfull_name = first_name + \" \" + last_name \nprint(\"first name:\", first_name)\nprint(\"last name:\", last_name)\nprint(\"full name:\", full_name)",
+        "detail": "assignments.asignment_3.casting",
+        "documentation": {}
+    },
+    {
+        "label": "last_name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.casting",
+        "description": "assignments.asignment_3.casting",
+        "peekOfCode": "last_name = \"Cyrus\"\nfull_name = first_name + \" \" + last_name \nprint(\"first name:\", first_name)\nprint(\"last name:\", last_name)\nprint(\"full name:\", full_name)",
+        "detail": "assignments.asignment_3.casting",
+        "documentation": {}
+    },
+    {
+        "label": "full_name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.casting",
+        "description": "assignments.asignment_3.casting",
+        "peekOfCode": "full_name = first_name + \" \" + last_name \nprint(\"first name:\", first_name)\nprint(\"last name:\", last_name)\nprint(\"full name:\", full_name)",
+        "detail": "assignments.asignment_3.casting",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.delete",
+        "description": "assignments.asignment_3.delete",
+        "peekOfCode": "name = \"Aksam\"\n# printing students before del\ndel name\nprint(name)\n# example 2\nstudents = [\"Anwar\",\"Akram\",\"Aklass\"]\n# printing students before del\nprint(students)\ndel students\n#example 3",
+        "detail": "assignments.asignment_3.delete",
+        "documentation": {}
+    },
+    {
+        "label": "students",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.delete",
+        "description": "assignments.asignment_3.delete",
+        "peekOfCode": "students = [\"Anwar\",\"Akram\",\"Aklass\"]\n# printing students before del\nprint(students)\ndel students\n#example 3\n# dictionary\nuser_info = {\n    \"username\": \"Aksam\",\n    \"email\": \"aksamcyrus@gmail.com\",\n    \"password\": \"1234\",",
+        "detail": "assignments.asignment_3.delete",
+        "documentation": {}
+    },
+    {
+        "label": "user_info",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.delete",
+        "description": "assignments.asignment_3.delete",
+        "peekOfCode": "user_info = {\n    \"username\": \"Aksam\",\n    \"email\": \"aksamcyrus@gmail.com\",\n    \"password\": \"1234\",\n    \"age\": 20\n}\n# printing user_info before del\nprint(user_info)\ndel user_info",
+        "detail": "assignments.asignment_3.delete",
+        "documentation": {}
+    },
+    {
+        "label": "a=b=c",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.multiple",
+        "description": "assignments.asignment_3.multiple",
+        "peekOfCode": "a=b=c = 10\nprint(a, b, c)\n# example 2\nx, y, z = 10, 40, 70\nprint(\"x:\", x)\nprint(\"y:\", y)\nprint(\"z:\", z)\nprint()\n# example 3\nboy, girl = 5, 8",
+        "detail": "assignments.asignment_3.multiple",
+        "documentation": {}
+    },
+    {
+        "label": "constant",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "constant = 50 # normal variable naming\nhello = \"Hello world\"\nprint(constant)\nprint(hello)\n# Example 2\nname1 = \"Cyrus\" # Alpha Numeric variable naming\nage2 = 200\nprint(name1)\nprint(age2)\n# Example 3",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "hello = \"Hello world\"\nprint(constant)\nprint(hello)\n# Example 2\nname1 = \"Cyrus\" # Alpha Numeric variable naming\nage2 = 200\nprint(name1)\nprint(age2)\n# Example 3\nfirst_name = \"Aksam\" # snake Case variable naming",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "name1",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "name1 = \"Cyrus\" # Alpha Numeric variable naming\nage2 = 200\nprint(name1)\nprint(age2)\n# Example 3\nfirst_name = \"Aksam\" # snake Case variable naming\nlast_name = \"Cyrus\"\nprint(first_name)\nprint(last_name)\n# Example 4",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "age2",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "age2 = 200\nprint(name1)\nprint(age2)\n# Example 3\nfirst_name = \"Aksam\" # snake Case variable naming\nlast_name = \"Cyrus\"\nprint(first_name)\nprint(last_name)\n# Example 4\nlastName = \"Naruto\" # camal case variable naming",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "first_name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "first_name = \"Aksam\" # snake Case variable naming\nlast_name = \"Cyrus\"\nprint(first_name)\nprint(last_name)\n# Example 4\nlastName = \"Naruto\" # camal case variable naming\nfirstName = \"Uzumaki\"\nprint(lastName)\nprint(firstName)\nFirstName = \"Uzumaki\" # Pascal case variable naming",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "last_name",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "last_name = \"Cyrus\"\nprint(first_name)\nprint(last_name)\n# Example 4\nlastName = \"Naruto\" # camal case variable naming\nfirstName = \"Uzumaki\"\nprint(lastName)\nprint(firstName)\nFirstName = \"Uzumaki\" # Pascal case variable naming\nHelloWorld = \"My output\"",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "lastName",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "lastName = \"Naruto\" # camal case variable naming\nfirstName = \"Uzumaki\"\nprint(lastName)\nprint(firstName)\nFirstName = \"Uzumaki\" # Pascal case variable naming\nHelloWorld = \"My output\"",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "firstName",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "firstName = \"Uzumaki\"\nprint(lastName)\nprint(firstName)\nFirstName = \"Uzumaki\" # Pascal case variable naming\nHelloWorld = \"My output\"",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "FirstName",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "FirstName = \"Uzumaki\" # Pascal case variable naming\nHelloWorld = \"My output\"",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "HelloWorld",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.naming",
+        "description": "assignments.asignment_3.naming",
+        "peekOfCode": "HelloWorld = \"My output\"",
+        "detail": "assignments.asignment_3.naming",
+        "documentation": {}
+    },
+    {
+        "label": "interger_var",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.type",
+        "description": "assignments.asignment_3.type",
+        "peekOfCode": "interger_var = 43\nprint(\"Variable: \", interger_var)\nprint(\"Data type: \", type(interger_var))\n# Example 2\nstring_var = \"Hello, World\"\nprint(\"Variable: \", string_var)\nprint(\"Data type: \", type(string_var))\n# Example 3\nfloat_var = 1230.89\nprint(\"Variable: \", float_var)",
+        "detail": "assignments.asignment_3.type",
+        "documentation": {}
+    },
+    {
+        "label": "string_var",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.type",
+        "description": "assignments.asignment_3.type",
+        "peekOfCode": "string_var = \"Hello, World\"\nprint(\"Variable: \", string_var)\nprint(\"Data type: \", type(string_var))\n# Example 3\nfloat_var = 1230.89\nprint(\"Variable: \", float_var)\nprint(\"Data type: \", type(float_var))\n# example 4\nis_valid = True\nprint(type(is_valid))",
+        "detail": "assignments.asignment_3.type",
+        "documentation": {}
+    },
+    {
+        "label": "float_var",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.type",
+        "description": "assignments.asignment_3.type",
+        "peekOfCode": "float_var = 1230.89\nprint(\"Variable: \", float_var)\nprint(\"Data type: \", type(float_var))\n# example 4\nis_valid = True\nprint(type(is_valid))",
+        "detail": "assignments.asignment_3.type",
+        "documentation": {}
+    },
+    {
+        "label": "is_valid",
+        "kind": 5,
+        "importPath": "assignments.asignment_3.type",
+        "description": "assignments.asignment_3.type",
+        "peekOfCode": "is_valid = True\nprint(type(is_valid))",
+        "detail": "assignments.asignment_3.type",
+        "documentation": {}
+    },
+    {
+        "label": "emp_list",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "emp_list = []\nnewElement = \"Student\"\nemp_list.append(newElement)\nprint(\"Empty list after adding\", newElement + \":\", emp_list)\nprint()\n# EXAMPLE 2\ncontra = [\"a\",\"b\",\"c\"]\ncontra.append(\"d\")\nprint(\"Contra after appending\", contra)\nprint()",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "newElement",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "newElement = \"Student\"\nemp_list.append(newElement)\nprint(\"Empty list after adding\", newElement + \":\", emp_list)\nprint()\n# EXAMPLE 2\ncontra = [\"a\",\"b\",\"c\"]\ncontra.append(\"d\")\nprint(\"Contra after appending\", contra)\nprint()\n# INSERTING EXAMPLES IN PYTHN",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "contra",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "contra = [\"a\",\"b\",\"c\"]\ncontra.append(\"d\")\nprint(\"Contra after appending\", contra)\nprint()\n# INSERTING EXAMPLES IN PYTHN\n# EXAMPLE 3\nfruits = [\"Mango\", \"Apple\", \"Orange\", \"Banana\"]\nNew_Fruits = \"Berries\"\nindexInsert = 1\nfruits.insert(indexInsert, New_Fruits)",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "fruits = [\"Mango\", \"Apple\", \"Orange\", \"Banana\"]\nNew_Fruits = \"Berries\"\nindexInsert = 1\nfruits.insert(indexInsert, New_Fruits)\nprint(\"Fruits list after inserting\", New_Fruits, \"at index\", indexInsert, \":\", fruits)\nprint()\n# EXAMPLE 4\nveg = [\"carrot\", \"Broccoli\"]\nnewElement2 = \"Spinach\"\nveg = veg + [newElement2]",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "New_Fruits",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "New_Fruits = \"Berries\"\nindexInsert = 1\nfruits.insert(indexInsert, New_Fruits)\nprint(\"Fruits list after inserting\", New_Fruits, \"at index\", indexInsert, \":\", fruits)\nprint()\n# EXAMPLE 4\nveg = [\"carrot\", \"Broccoli\"]\nnewElement2 = \"Spinach\"\nveg = veg + [newElement2]\nprint(\"Veg list after adding\", newElement2, \":\", veg)",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "indexInsert",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "indexInsert = 1\nfruits.insert(indexInsert, New_Fruits)\nprint(\"Fruits list after inserting\", New_Fruits, \"at index\", indexInsert, \":\", fruits)\nprint()\n# EXAMPLE 4\nveg = [\"carrot\", \"Broccoli\"]\nnewElement2 = \"Spinach\"\nveg = veg + [newElement2]\nprint(\"Veg list after adding\", newElement2, \":\", veg)\nprint()",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "veg",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "veg = [\"carrot\", \"Broccoli\"]\nnewElement2 = \"Spinach\"\nveg = veg + [newElement2]\nprint(\"Veg list after adding\", newElement2, \":\", veg)\nprint()\n# EXAMPLE 5\nstudy = [\"Roger\", \"3.14\", True, 20, 17.27]\nprint(\"Original study \", study)\nstudy.insert(1, \"Markson\")\nprint(\"Study after appending: \", study)",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "newElement2",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "newElement2 = \"Spinach\"\nveg = veg + [newElement2]\nprint(\"Veg list after adding\", newElement2, \":\", veg)\nprint()\n# EXAMPLE 5\nstudy = [\"Roger\", \"3.14\", True, 20, 17.27]\nprint(\"Original study \", study)\nstudy.insert(1, \"Markson\")\nprint(\"Study after appending: \", study)\nstudy.insert(-1, \"Pass\")",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "veg",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "veg = veg + [newElement2]\nprint(\"Veg list after adding\", newElement2, \":\", veg)\nprint()\n# EXAMPLE 5\nstudy = [\"Roger\", \"3.14\", True, 20, 17.27]\nprint(\"Original study \", study)\nstudy.insert(1, \"Markson\")\nprint(\"Study after appending: \", study)\nstudy.insert(-1, \"Pass\")\nprint(\"List after appending: \", study)",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "study",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.add_to_list",
+        "description": "assignments.asignment_4.add_to_list",
+        "peekOfCode": "study = [\"Roger\", \"3.14\", True, 20, 17.27]\nprint(\"Original study \", study)\nstudy.insert(1, \"Markson\")\nprint(\"Study after appending: \", study)\nstudy.insert(-1, \"Pass\")\nprint(\"List after appending: \", study)\nprint()",
+        "detail": "assignments.asignment_4.add_to_list",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.remove_list",
+        "description": "assignments.asignment_4.remove_list",
+        "peekOfCode": "fruits = [\"Mango\", \"Apple\", \"Orange\", \"Banana\"]\nel_to_remove = \"Banana\"\nprint(\"original list:\", fruits)\nfruits.remove(el_to_remove)\nprint(\"list after removing\", el_to_remove + \":\", fruits)\nprint()\n# EXAMPLE 2\nnumbers = [1,2,3,4,5,6]\nindex_to_remove = 3\nprint(\"original list:\", numbers)",
+        "detail": "assignments.asignment_4.remove_list",
+        "documentation": {}
+    },
+    {
+        "label": "el_to_remove",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.remove_list",
+        "description": "assignments.asignment_4.remove_list",
+        "peekOfCode": "el_to_remove = \"Banana\"\nprint(\"original list:\", fruits)\nfruits.remove(el_to_remove)\nprint(\"list after removing\", el_to_remove + \":\", fruits)\nprint()\n# EXAMPLE 2\nnumbers = [1,2,3,4,5,6]\nindex_to_remove = 3\nprint(\"original list:\", numbers)\ndel numbers[index_to_remove]",
+        "detail": "assignments.asignment_4.remove_list",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.remove_list",
+        "description": "assignments.asignment_4.remove_list",
+        "peekOfCode": "numbers = [1,2,3,4,5,6]\nindex_to_remove = 3\nprint(\"original list:\", numbers)\ndel numbers[index_to_remove]\nprint(\"list after removing element at index\", index_to_remove, \":\", numbers)",
+        "detail": "assignments.asignment_4.remove_list",
+        "documentation": {}
+    },
+    {
+        "label": "index_to_remove",
+        "kind": 5,
+        "importPath": "assignments.asignment_4.remove_list",
+        "description": "assignments.asignment_4.remove_list",
+        "peekOfCode": "index_to_remove = 3\nprint(\"original list:\", numbers)\ndel numbers[index_to_remove]\nprint(\"list after removing element at index\", index_to_remove, \":\", numbers)",
+        "detail": "assignments.asignment_4.remove_list",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 2,
+        "importPath": "assignments.asignment_5.function",
+        "description": "assignments.asignment_5.function",
+        "peekOfCode": "def time():\n    current_time = datetime.now().strftime('%H:%M:%S')\n    print('Current time:', current_time)\ntime()\n# EXAMPLE 1\ndef helloWorld():\n    print(\"Hello World\")\nhelloWorld()\n# EXAMPLE 3\ndef add(item1, item2):",
+        "detail": "assignments.asignment_5.function",
+        "documentation": {}
+    },
+    {
+        "label": "helloWorld",
+        "kind": 2,
+        "importPath": "assignments.asignment_5.function",
+        "description": "assignments.asignment_5.function",
+        "peekOfCode": "def helloWorld():\n    print(\"Hello World\")\nhelloWorld()\n# EXAMPLE 3\ndef add(item1, item2):\n    result = item1 + item2\n    print(result)\nadd(17, 10)\nadd('Hello ', 'World')",
+        "detail": "assignments.asignment_5.function",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "assignments.asignment_5.function",
+        "description": "assignments.asignment_5.function",
+        "peekOfCode": "def add(item1, item2):\n    result = item1 + item2\n    print(result)\nadd(17, 10)\nadd('Hello ', 'World')",
+        "detail": "assignments.asignment_5.function",
+        "documentation": {}
+    },
+    {
+        "label": "assign1",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.operators.assignment_operators",
+        "description": "assignments.asignment_7.operators.assignment_operators",
+        "peekOfCode": "def assign1():\n    x = 10\n    return x\nprint(\"Returned value:\", assign1())\ndef assign2(y):\n    y += 3\n    return y\nprint(\"Returned value:\", assign2(4))\ndef assign3(z):\n    z *= 2",
+        "detail": "assignments.asignment_7.operators.assignment_operators",
+        "documentation": {}
+    },
+    {
+        "label": "assign2",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.operators.assignment_operators",
+        "description": "assignments.asignment_7.operators.assignment_operators",
+        "peekOfCode": "def assign2(y):\n    y += 3\n    return y\nprint(\"Returned value:\", assign2(4))\ndef assign3(z):\n    z *= 2\n    return z\nprint(\"Returned value:\", assign3(7))\na = 21\nb = 10 ",
+        "detail": "assignments.asignment_7.operators.assignment_operators",
+        "documentation": {}
+    },
+    {
+        "label": "assign3",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.operators.assignment_operators",
+        "description": "assignments.asignment_7.operators.assignment_operators",
+        "peekOfCode": "def assign3(z):\n    z *= 2\n    return z\nprint(\"Returned value:\", assign3(7))\na = 21\nb = 10 \nc =0\nc = a + b\nprint(c)\nc += a",
+        "detail": "assignments.asignment_7.operators.assignment_operators",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.assignment_operators",
+        "description": "assignments.asignment_7.operators.assignment_operators",
+        "peekOfCode": "a = 21\nb = 10 \nc =0\nc = a + b\nprint(c)\nc += a\nprint(c)\nc *= a\nprint(c)\nc /= a",
+        "detail": "assignments.asignment_7.operators.assignment_operators",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.assignment_operators",
+        "description": "assignments.asignment_7.operators.assignment_operators",
+        "peekOfCode": "b = 10 \nc =0\nc = a + b\nprint(c)\nc += a\nprint(c)\nc *= a\nprint(c)\nc /= a\nprint(c)",
+        "detail": "assignments.asignment_7.operators.assignment_operators",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.assignment_operators",
+        "description": "assignments.asignment_7.operators.assignment_operators",
+        "peekOfCode": "c = a + b\nprint(c)\nc += a\nprint(c)\nc *= a\nprint(c)\nc /= a\nprint(c)\nc = 2\nprint(c)",
+        "detail": "assignments.asignment_7.operators.assignment_operators",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.assignment_operators",
+        "description": "assignments.asignment_7.operators.assignment_operators",
+        "peekOfCode": "c = 2\nprint(c)\nc **= a\nprint(c)\nc %= a\nprint(c)\nc //= a\nprint(c)",
+        "detail": "assignments.asignment_7.operators.assignment_operators",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.bitwise_operators",
+        "description": "assignments.asignment_7.operators.bitwise_operators",
+        "peekOfCode": "num1 = 10\nnum2 = 5\nresult_and = num1 & num2\nprint(\"bitwise and\", result_and)\nresult_or = num1 | num2\nprint(\"bitwise or\", result_or)\nresult_xor = num1 ^ num2\nprint(\"bitwise and\", result_xor)",
+        "detail": "assignments.asignment_7.operators.bitwise_operators",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.bitwise_operators",
+        "description": "assignments.asignment_7.operators.bitwise_operators",
+        "peekOfCode": "num2 = 5\nresult_and = num1 & num2\nprint(\"bitwise and\", result_and)\nresult_or = num1 | num2\nprint(\"bitwise or\", result_or)\nresult_xor = num1 ^ num2\nprint(\"bitwise and\", result_xor)",
+        "detail": "assignments.asignment_7.operators.bitwise_operators",
+        "documentation": {}
+    },
+    {
+        "label": "result_and",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.bitwise_operators",
+        "description": "assignments.asignment_7.operators.bitwise_operators",
+        "peekOfCode": "result_and = num1 & num2\nprint(\"bitwise and\", result_and)\nresult_or = num1 | num2\nprint(\"bitwise or\", result_or)\nresult_xor = num1 ^ num2\nprint(\"bitwise and\", result_xor)",
+        "detail": "assignments.asignment_7.operators.bitwise_operators",
+        "documentation": {}
+    },
+    {
+        "label": "result_or",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.bitwise_operators",
+        "description": "assignments.asignment_7.operators.bitwise_operators",
+        "peekOfCode": "result_or = num1 | num2\nprint(\"bitwise or\", result_or)\nresult_xor = num1 ^ num2\nprint(\"bitwise and\", result_xor)",
+        "detail": "assignments.asignment_7.operators.bitwise_operators",
+        "documentation": {}
+    },
+    {
+        "label": "result_xor",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.bitwise_operators",
+        "description": "assignments.asignment_7.operators.bitwise_operators",
+        "peekOfCode": "result_xor = num1 ^ num2\nprint(\"bitwise and\", result_xor)",
+        "detail": "assignments.asignment_7.operators.bitwise_operators",
+        "documentation": {}
+    },
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.logical_operators",
+        "description": "assignments.asignment_7.operators.logical_operators",
+        "peekOfCode": "num1 = [1,2,3,4,5]\nnum2 = [4,5,6,7,8]\nlog_op_num = [n1 for n1 in num1 for n2 in num2 if n1 == n2]\nprint(\"\\nExample 1: Selecting elements from two lists using AND operators\")\nprint(\"List 1:\", num1)\nprint(\"List 2:\", num2)\nprint(\"Logical operation numbers\", log_op_num)\nbox = 20\nbrush = 70\nlist1 = [1,2,3,5]",
+        "detail": "assignments.asignment_7.operators.logical_operators",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.logical_operators",
+        "description": "assignments.asignment_7.operators.logical_operators",
+        "peekOfCode": "num2 = [4,5,6,7,8]\nlog_op_num = [n1 for n1 in num1 for n2 in num2 if n1 == n2]\nprint(\"\\nExample 1: Selecting elements from two lists using AND operators\")\nprint(\"List 1:\", num1)\nprint(\"List 2:\", num2)\nprint(\"Logical operation numbers\", log_op_num)\nbox = 20\nbrush = 70\nlist1 = [1,2,3,5]\nif(box in list1):",
+        "detail": "assignments.asignment_7.operators.logical_operators",
+        "documentation": {}
+    },
+    {
+        "label": "log_op_num",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.logical_operators",
+        "description": "assignments.asignment_7.operators.logical_operators",
+        "peekOfCode": "log_op_num = [n1 for n1 in num1 for n2 in num2 if n1 == n2]\nprint(\"\\nExample 1: Selecting elements from two lists using AND operators\")\nprint(\"List 1:\", num1)\nprint(\"List 2:\", num2)\nprint(\"Logical operation numbers\", log_op_num)\nbox = 20\nbrush = 70\nlist1 = [1,2,3,5]\nif(box in list1):\n    print(\"line 1 - box is available in the given list\")",
+        "detail": "assignments.asignment_7.operators.logical_operators",
+        "documentation": {}
+    },
+    {
+        "label": "box",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.logical_operators",
+        "description": "assignments.asignment_7.operators.logical_operators",
+        "peekOfCode": "box = 20\nbrush = 70\nlist1 = [1,2,3,5]\nif(box in list1):\n    print(\"line 1 - box is available in the given list\")\nelse:\n    print(\"line 1 - box is not available in the given list\")",
+        "detail": "assignments.asignment_7.operators.logical_operators",
+        "documentation": {}
+    },
+    {
+        "label": "brush",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.logical_operators",
+        "description": "assignments.asignment_7.operators.logical_operators",
+        "peekOfCode": "brush = 70\nlist1 = [1,2,3,5]\nif(box in list1):\n    print(\"line 1 - box is available in the given list\")\nelse:\n    print(\"line 1 - box is not available in the given list\")",
+        "detail": "assignments.asignment_7.operators.logical_operators",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.logical_operators",
+        "description": "assignments.asignment_7.operators.logical_operators",
+        "peekOfCode": "list1 = [1,2,3,5]\nif(box in list1):\n    print(\"line 1 - box is available in the given list\")\nelse:\n    print(\"line 1 - box is not available in the given list\")",
+        "detail": "assignments.asignment_7.operators.logical_operators",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.order",
+        "description": "assignments.asignment_7.operators.order",
+        "peekOfCode": "result = (10 + 5) *2 \nprint(result)\nresult1 = 2 ** 3 * 4\nprint(result1)\nresult2 = -3 * 4\nprint(result2)\nresult3 = 10 + 5 *2 \nprint(result3)\nresult4 = 2 + 3 < 5 * 2\nprint(result4)",
+        "detail": "assignments.asignment_7.operators.order",
+        "documentation": {}
+    },
+    {
+        "label": "result1",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.order",
+        "description": "assignments.asignment_7.operators.order",
+        "peekOfCode": "result1 = 2 ** 3 * 4\nprint(result1)\nresult2 = -3 * 4\nprint(result2)\nresult3 = 10 + 5 *2 \nprint(result3)\nresult4 = 2 + 3 < 5 * 2\nprint(result4)",
+        "detail": "assignments.asignment_7.operators.order",
+        "documentation": {}
+    },
+    {
+        "label": "result2",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.order",
+        "description": "assignments.asignment_7.operators.order",
+        "peekOfCode": "result2 = -3 * 4\nprint(result2)\nresult3 = 10 + 5 *2 \nprint(result3)\nresult4 = 2 + 3 < 5 * 2\nprint(result4)",
+        "detail": "assignments.asignment_7.operators.order",
+        "documentation": {}
+    },
+    {
+        "label": "result3",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.order",
+        "description": "assignments.asignment_7.operators.order",
+        "peekOfCode": "result3 = 10 + 5 *2 \nprint(result3)\nresult4 = 2 + 3 < 5 * 2\nprint(result4)",
+        "detail": "assignments.asignment_7.operators.order",
+        "documentation": {}
+    },
+    {
+        "label": "result4",
+        "kind": 5,
+        "importPath": "assignments.asignment_7.operators.order",
+        "description": "assignments.asignment_7.operators.order",
+        "peekOfCode": "result4 = 2 + 3 < 5 * 2\nprint(result4)",
+        "detail": "assignments.asignment_7.operators.order",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.add",
+        "description": "assignments.asignment_7.add",
+        "peekOfCode": "def add(num1,num2):\n    return (num1 + num2)\ndef get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The summed values = \", add(number_1, number_2))\nget_input()\nprint()\n# EXAMPLE 2\nprint('EXAMPLE 2')",
+        "detail": "assignments.asignment_7.add",
+        "documentation": {}
+    },
+    {
+        "label": "get_input",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.add",
+        "description": "assignments.asignment_7.add",
+        "peekOfCode": "def get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The summed values = \", add(number_1, number_2))\nget_input()\nprint()\n# EXAMPLE 2\nprint('EXAMPLE 2')\ndef add2(n1, n2):\n    n1 = input('Enter value 1 ')",
+        "detail": "assignments.asignment_7.add",
+        "documentation": {}
+    },
+    {
+        "label": "add2",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.add",
+        "description": "assignments.asignment_7.add",
+        "peekOfCode": "def add2(n1, n2):\n    n1 = input('Enter value 1 ')\n    n2 = input('Enter Value 2 ')\n    result1 = int(n1) + int(n2)\n    print('The summed value is:', result1)\nadd2(10,20)",
+        "detail": "assignments.asignment_7.add",
+        "documentation": {}
+    },
+    {
+        "label": "divided",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.divide",
+        "description": "assignments.asignment_7.divide",
+        "peekOfCode": "def divided(num1,num2):\n    return (num1 / num2)\ndef get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The divided values = \", divided(number_1, number_2))\nget_input()\nprint()\n# EXAMPLE 2\ndef divide(number_1, number_2):",
+        "detail": "assignments.asignment_7.divide",
+        "documentation": {}
+    },
+    {
+        "label": "get_input",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.divide",
+        "description": "assignments.asignment_7.divide",
+        "peekOfCode": "def get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The divided values = \", divided(number_1, number_2))\nget_input()\nprint()\n# EXAMPLE 2\ndef divide(number_1, number_2):\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number ')   )",
+        "detail": "assignments.asignment_7.divide",
+        "documentation": {}
+    },
+    {
+        "label": "divide",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.divide",
+        "description": "assignments.asignment_7.divide",
+        "peekOfCode": "def divide(number_1, number_2):\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number ')   )\n    result = number_1 / number_2\n    return (result)\nprint()\ndef outPut():\n    print(\"The divided values = \", divide(10,20))\noutPut()",
+        "detail": "assignments.asignment_7.divide",
+        "documentation": {}
+    },
+    {
+        "label": "outPut",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.divide",
+        "description": "assignments.asignment_7.divide",
+        "peekOfCode": "def outPut():\n    print(\"The divided values = \", divide(10,20))\noutPut()",
+        "detail": "assignments.asignment_7.divide",
+        "documentation": {}
+    },
+    {
+        "label": "multiplyed",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.multipy",
+        "description": "assignments.asignment_7.multipy",
+        "peekOfCode": "def multiplyed(num1,num2):\n    return (num1 * num2)\ndef get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The multiplied values = \", multiplyed(number_1, number_2))\nget_input()\nprint()\n# EXAMPLE 2\ndef multiply(number_1, number_2):",
+        "detail": "assignments.asignment_7.multipy",
+        "documentation": {}
+    },
+    {
+        "label": "get_input",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.multipy",
+        "description": "assignments.asignment_7.multipy",
+        "peekOfCode": "def get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The multiplied values = \", multiplyed(number_1, number_2))\nget_input()\nprint()\n# EXAMPLE 2\ndef multiply(number_1, number_2):\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number ')   )",
+        "detail": "assignments.asignment_7.multipy",
+        "documentation": {}
+    },
+    {
+        "label": "multiply",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.multipy",
+        "description": "assignments.asignment_7.multipy",
+        "peekOfCode": "def multiply(number_1, number_2):\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number ')   )\n    result = int(number_1) * int(number_2)\n    return (result)\nprint()\ndef outPut():\n    print(\"The multiplied values = \", multiply(10,20))\noutPut()",
+        "detail": "assignments.asignment_7.multipy",
+        "documentation": {}
+    },
+    {
+        "label": "outPut",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.multipy",
+        "description": "assignments.asignment_7.multipy",
+        "peekOfCode": "def outPut():\n    print(\"The multiplied values = \", multiply(10,20))\noutPut()",
+        "detail": "assignments.asignment_7.multipy",
+        "documentation": {}
+    },
+    {
+        "label": "subract",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.subtract",
+        "description": "assignments.asignment_7.subtract",
+        "peekOfCode": "def subract(number_1, number_2):\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    result = float(number_1) - float(number_2)\n    return (result)\nprint()\ndef outPut():\n    print(\"The subtracted values = \", subract(10,20))\noutPut()\nprint()",
+        "detail": "assignments.asignment_7.subtract",
+        "documentation": {}
+    },
+    {
+        "label": "outPut",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.subtract",
+        "description": "assignments.asignment_7.subtract",
+        "peekOfCode": "def outPut():\n    print(\"The subtracted values = \", subract(10,20))\noutPut()\nprint()\n# EXAMPLE 2\nprint('EXAMPLE 2')\ndef subracted(num1,num2):\n    return (num1 - num2)\ndef get_input():\n    number_1 = float(input('Enter Your First Number '))",
+        "detail": "assignments.asignment_7.subtract",
+        "documentation": {}
+    },
+    {
+        "label": "subracted",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.subtract",
+        "description": "assignments.asignment_7.subtract",
+        "peekOfCode": "def subracted(num1,num2):\n    return (num1 - num2)\ndef get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The subtracted values = \", subracted(number_1, number_2))\nget_input()",
+        "detail": "assignments.asignment_7.subtract",
+        "documentation": {}
+    },
+    {
+        "label": "get_input",
+        "kind": 2,
+        "importPath": "assignments.asignment_7.subtract",
+        "description": "assignments.asignment_7.subtract",
+        "peekOfCode": "def get_input():\n    number_1 = float(input('Enter Your First Number '))\n    number_2 = float(input('Enter Your Second Number '))\n    print(\"The subtracted values = \", subracted(number_1, number_2))\nget_input()",
+        "detail": "assignments.asignment_7.subtract",
+        "documentation": {}
+    },
+    {
+        "label": "pychos",
+        "kind": 5,
+        "importPath": "assignments.asignment_8.list_compresion",
+        "description": "assignments.asignment_8.list_compresion",
+        "peekOfCode": "pychos = [1,2,3,4,5,6,7]\nsquared_pychos = [] # empty list to get values\nfor pycho in pychos:\n    squared_pychos.append(pycho ** 2)\nprint(\"Squared pychos without list comprehension\", squared_pychos)\nsquared_pychos_lc = [pycho ** 2 for pycho in pychos ]\nprint(\"Squared pychos with list comprehension\", squared_pychos_lc)",
+        "detail": "assignments.asignment_8.list_compresion",
+        "documentation": {}
+    },
+    {
+        "label": "squared_pychos",
+        "kind": 5,
+        "importPath": "assignments.asignment_8.list_compresion",
+        "description": "assignments.asignment_8.list_compresion",
+        "peekOfCode": "squared_pychos = [] # empty list to get values\nfor pycho in pychos:\n    squared_pychos.append(pycho ** 2)\nprint(\"Squared pychos without list comprehension\", squared_pychos)\nsquared_pychos_lc = [pycho ** 2 for pycho in pychos ]\nprint(\"Squared pychos with list comprehension\", squared_pychos_lc)",
+        "detail": "assignments.asignment_8.list_compresion",
+        "documentation": {}
+    },
+    {
+        "label": "squared_pychos_lc",
+        "kind": 5,
+        "importPath": "assignments.asignment_8.list_compresion",
+        "description": "assignments.asignment_8.list_compresion",
+        "peekOfCode": "squared_pychos_lc = [pycho ** 2 for pycho in pychos ]\nprint(\"Squared pychos with list comprehension\", squared_pychos_lc)",
+        "detail": "assignments.asignment_8.list_compresion",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "assignments.asignment_8.list_pop",
+        "description": "assignments.asignment_8.list_pop",
+        "peekOfCode": "list1 = [1, 'Cyrus', 20.9, 190, True]\nprint(list1) # printed before poping\nlist1.pop()\nprint(list1) # removes one item from the end\n# Example 2\nlist2 = [1, 'Cyrus', 20.9, 190, 'John']\nprint('Original List:', list2)\nremoved_element = list2.pop()\nprint(\"Modified list after pop(): \",list2)\nprint(\"Removed Element:\", removed_element)",
+        "detail": "assignments.asignment_8.list_pop",
+        "documentation": {}
+    },
+    {
+        "label": "list2",
+        "kind": 5,
+        "importPath": "assignments.asignment_8.list_pop",
+        "description": "assignments.asignment_8.list_pop",
+        "peekOfCode": "list2 = [1, 'Cyrus', 20.9, 190, 'John']\nprint('Original List:', list2)\nremoved_element = list2.pop()\nprint(\"Modified list after pop(): \",list2)\nprint(\"Removed Element:\", removed_element)",
+        "detail": "assignments.asignment_8.list_pop",
+        "documentation": {}
+    },
+    {
+        "label": "removed_element",
+        "kind": 5,
+        "importPath": "assignments.asignment_8.list_pop",
+        "description": "assignments.asignment_8.list_pop",
+        "peekOfCode": "removed_element = list2.pop()\nprint(\"Modified list after pop(): \",list2)\nprint(\"Removed Element:\", removed_element)",
+        "detail": "assignments.asignment_8.list_pop",
+        "documentation": {}
+    },
+    {
+        "label": "my_day",
+        "kind": 5,
+        "importPath": "assignments.asignment_9.day",
+        "description": "assignments.asignment_9.day",
+        "peekOfCode": "my_day = int(input(\"Enter the current day of the week (1-7): \"))\nif my_day == 1:\n    print(\"Monday: Organizing for the week ahead\")\nelif my_day == 2:\n    print(\"Tuesday: Planing my time table to code for the week\")\nelif my_day == 3:\n    print(\"Wednesday: Taking my clothes to the washing machine\")\nelif my_day == 4:\n    print(\"Thursday: Playing games on my PS4 consle and coming to the institute\")\nelif my_day == 5:",
+        "detail": "assignments.asignment_9.day",
+        "documentation": {}
+    },
+    {
+        "label": "Checking_num",
+        "kind": 2,
+        "importPath": "assignments.asignment_9.whileloop",
+        "description": "assignments.asignment_9.whileloop",
+        "peekOfCode": "def Checking_num():\n    numbers = [1,2,3,4,5,6]\n    counter = 0 # responsible for counting the even or odd nums\n    while counter < len(numbers):\n        # using an if statement to check if the current is even\n        if numbers[counter] % 2 == 0: # this is the even if statement\n            print(f\"{numbers[counter]} is even\")\n        else:\n            print(f\"{numbers[counter]} is odd\")\n        counter += 1",
+        "detail": "assignments.asignment_9.whileloop",
+        "documentation": {}
+    },
+    {
+        "label": "vowels",
+        "kind": 2,
+        "importPath": "assignments.asignment_9.whileloop",
+        "description": "assignments.asignment_9.whileloop",
+        "peekOfCode": "def vowels():\n    students = [\"Panchal\", \"Joel\", \"Rajvir\", \"Emma\", \"Afford\", \"Mumbere\", \"Aksam\"]\n    index = 0\n    while index  < len(students):\n        # using an if statement to check if the current element starts with a vowel\n        if students[index][0].lower() in [\"a\",\"e\",\"i\",\"o\",\"u\"]:\n            print(f\"{students[index]} starts with a vowel\")\n        else:\n            print(f\"{students[index]} does not starts with a vowel\")\n        index += 1",
+        "detail": "assignments.asignment_9.whileloop",
+        "documentation": {}
+    },
+    {
+        "label": "fruit_leng",
+        "kind": 2,
+        "importPath": "assignments.asignment_9.whileloop",
+        "description": "assignments.asignment_9.whileloop",
+        "peekOfCode": "def fruit_leng():\n    fruits = [\"apple\",\"banana\",\"orange\",\"mango\",\"Kiwi\"]\n    count = 0\n    print(\"----------------------------------\")\n    print(\"using a while loop:\")\n    while count < len(fruits):\n        if len(fruits[count]) % 2 == 0:\n            print(f\"The Length of {fruits[count]} is a even number\")\n        elif len(fruits[count]) % 2 != 0:\n            print(f\"The Length of {fruits[count]} is a odd number\")",
+        "detail": "assignments.asignment_9.whileloop",
+        "documentation": {}
+    },
+    {
+        "label": "students",
+        "kind": 5,
+        "importPath": "dictionary.dics",
+        "description": "dictionary.dics",
+        "peekOfCode": "students = {\n    \"Aksam\": 95,\n    \"John\": 78,\n    \"Micheal\": 97,\n}\nprint(students)\n# EXAMPLE 2\nfruits = {\n    \"Mango\": 12,\n    \"Lemon\": 90,",
+        "detail": "dictionary.dics",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "dictionary.dics",
+        "description": "dictionary.dics",
+        "peekOfCode": "fruits = {\n    \"Mango\": 12,\n    \"Lemon\": 90,\n    \"Orange\": 2,\n}\nprint(fruits)\ncapitals = {\"Uganda\":\"Kampala\", \"Kenya\":\"Nairobi\"} \nprint(capitals.get[\"Uganda\"])\nprint(capitals[\"Uganda\"])",
+        "detail": "dictionary.dics",
+        "documentation": {}
+    },
+    {
+        "label": "capitals",
+        "kind": 5,
+        "importPath": "dictionary.dics",
+        "description": "dictionary.dics",
+        "peekOfCode": "capitals = {\"Uganda\":\"Kampala\", \"Kenya\":\"Nairobi\"} \nprint(capitals.get[\"Uganda\"])\nprint(capitals[\"Uganda\"])",
+        "detail": "dictionary.dics",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "functions.function",
+        "description": "functions.function",
+        "peekOfCode": "def add(num1, num2):\n    result = num1 + num2\n    return result\nadd(10,20)\ndef inputs(n1, n2):\n    n1 = input('Enter value 2 ')\n    n2 = input('Enter Value 1 ')\n    result1 = int(n1) + int(n2)\n    print('The summed value is:', result1)\ninputs(10,20)",
+        "detail": "functions.function",
+        "documentation": {}
+    },
+    {
+        "label": "inputs",
+        "kind": 2,
+        "importPath": "functions.function",
+        "description": "functions.function",
+        "peekOfCode": "def inputs(n1, n2):\n    n1 = input('Enter value 2 ')\n    n2 = input('Enter Value 1 ')\n    result1 = int(n1) + int(n2)\n    print('The summed value is:', result1)\ninputs(10,20)\ndef Name(): \n    name = input('Enter your Name?: ') \n    return name  \ndef Age(): ",
+        "detail": "functions.function",
+        "documentation": {}
+    },
+    {
+        "label": "Name",
+        "kind": 2,
+        "importPath": "functions.function",
+        "description": "functions.function",
+        "peekOfCode": "def Name(): \n    name = input('Enter your Name?: ') \n    return name  \ndef Age(): \n    age = input('Enter your age?: ') \n    print(Name(), age)\nAge()",
+        "detail": "functions.function",
+        "documentation": {}
+    },
+    {
+        "label": "Age",
+        "kind": 2,
+        "importPath": "functions.function",
+        "description": "functions.function",
+        "peekOfCode": "def Age(): \n    age = input('Enter your age?: ') \n    print(Name(), age)\nAge()",
+        "detail": "functions.function",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "if_statements.if_statement",
+        "description": "if_statements.if_statement",
+        "peekOfCode": "def add(a,b):\n    answer = a + b\n    print(str(a) + \"+\" + str(b) + \"=\" + str(answer))\ndef subtract(a,b):\n    answer = a - b\n    print(str(a) + \"-\" + str(b) + \"=\" + str(answer))\ndef divide(a,b):\n    answer = a / b\n    print(str(a) + \"/\" + str(b) + \"=\" + str(answer))\ndef multipy(a,b):",
+        "detail": "if_statements.if_statement",
+        "documentation": {}
+    },
+    {
+        "label": "subtract",
+        "kind": 2,
+        "importPath": "if_statements.if_statement",
+        "description": "if_statements.if_statement",
+        "peekOfCode": "def subtract(a,b):\n    answer = a - b\n    print(str(a) + \"-\" + str(b) + \"=\" + str(answer))\ndef divide(a,b):\n    answer = a / b\n    print(str(a) + \"/\" + str(b) + \"=\" + str(answer))\ndef multipy(a,b):\n    answer = a * b\n    print(str(a) + \"*\" + str(b) + \"=\" + str(answer))\nchoice = input(\"Enter your choice: \")",
+        "detail": "if_statements.if_statement",
+        "documentation": {}
+    },
+    {
+        "label": "divide",
+        "kind": 2,
+        "importPath": "if_statements.if_statement",
+        "description": "if_statements.if_statement",
+        "peekOfCode": "def divide(a,b):\n    answer = a / b\n    print(str(a) + \"/\" + str(b) + \"=\" + str(answer))\ndef multipy(a,b):\n    answer = a * b\n    print(str(a) + \"*\" + str(b) + \"=\" + str(answer))\nchoice = input(\"Enter your choice: \")\nprint(\"A, Addition\")\nprint(\"B, Subtraction\")\nprint(\"C, Multiplication\")",
+        "detail": "if_statements.if_statement",
+        "documentation": {}
+    },
+    {
+        "label": "multipy",
+        "kind": 2,
+        "importPath": "if_statements.if_statement",
+        "description": "if_statements.if_statement",
+        "peekOfCode": "def multipy(a,b):\n    answer = a * b\n    print(str(a) + \"*\" + str(b) + \"=\" + str(answer))\nchoice = input(\"Enter your choice: \")\nprint(\"A, Addition\")\nprint(\"B, Subtraction\")\nprint(\"C, Multiplication\")\nprint(\"D, Divition\")\nif choice == \"a\" and choice == \"A\":\n    print(\"Addition\")",
+        "detail": "if_statements.if_statement",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "if_statements.if_statement",
+        "description": "if_statements.if_statement",
+        "peekOfCode": "a = int(input(\"Enter first value: \"))\nb = int(input(\"Enter first value: \"))\nprint(\"-------------------------\")\ndef add(a,b):\n    answer = a + b\n    print(str(a) + \"+\" + str(b) + \"=\" + str(answer))\ndef subtract(a,b):\n    answer = a - b\n    print(str(a) + \"-\" + str(b) + \"=\" + str(answer))\ndef divide(a,b):",
+        "detail": "if_statements.if_statement",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "if_statements.if_statement",
+        "description": "if_statements.if_statement",
+        "peekOfCode": "b = int(input(\"Enter first value: \"))\nprint(\"-------------------------\")\ndef add(a,b):\n    answer = a + b\n    print(str(a) + \"+\" + str(b) + \"=\" + str(answer))\ndef subtract(a,b):\n    answer = a - b\n    print(str(a) + \"-\" + str(b) + \"=\" + str(answer))\ndef divide(a,b):\n    answer = a / b",
+        "detail": "if_statements.if_statement",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "kind": 5,
+        "importPath": "if_statements.if_statement",
+        "description": "if_statements.if_statement",
+        "peekOfCode": "choice = input(\"Enter your choice: \")\nprint(\"A, Addition\")\nprint(\"B, Subtraction\")\nprint(\"C, Multiplication\")\nprint(\"D, Divition\")\nif choice == \"a\" and choice == \"A\":\n    print(\"Addition\")\n    add(a,b)\nelif choice == \"b\" or choice == \"B\":\n    print(\"Subtraction\")",
+        "detail": "if_statements.if_statement",
+        "documentation": {}
+    },
+    {
+        "label": "students",
+        "kind": 5,
+        "importPath": "lists.forloop",
+        "description": "lists.forloop",
+        "peekOfCode": "students = ['Aksam', 'Mary', 'Harry']\nfor student in students:\n    print(student, end='')",
+        "detail": "lists.forloop",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "lists.list_operations",
+        "description": "lists.list_operations",
+        "peekOfCode": "list1 = [\"a\", True, 3, 4.5, 3]\nlist2 = [100, False, \"John\", 0.0, True]\nprint(list1)\n# Add items to a list\nprint(\"original list 1: \", list2)\nprint(\"Before updating index 2:\", list2[2])\nnewvalues = \"Mary\"\n# updating list2[2]\nlist2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])",
+        "detail": "lists.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "list2",
+        "kind": 5,
+        "importPath": "lists.list_operations",
+        "description": "lists.list_operations",
+        "peekOfCode": "list2 = [100, False, \"John\", 0.0, True]\nprint(list1)\n# Add items to a list\nprint(\"original list 1: \", list2)\nprint(\"Before updating index 2:\", list2[2])\nnewvalues = \"Mary\"\n# updating list2[2]\nlist2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])\nprint(list2)",
+        "detail": "lists.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "newvalues",
+        "kind": 5,
+        "importPath": "lists.list_operations",
+        "description": "lists.list_operations",
+        "peekOfCode": "newvalues = \"Mary\"\n# updating list2[2]\nlist2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])\nprint(list2)",
+        "detail": "lists.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "list2[1]",
+        "kind": 5,
+        "importPath": "lists.list_operations",
+        "description": "lists.list_operations",
+        "peekOfCode": "list2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])\nprint(list2)",
+        "detail": "lists.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "students",
+        "kind": 5,
+        "importPath": "loops.forloop",
+        "description": "loops.forloop",
+        "peekOfCode": "students = [\"Panchal\", \"Joel\", \"Rajvir\", \"Emma\", \"Afford\", \"Mumbere\", \"Aksam\"]\nfor student in students:\n    print(student)\nprint(\"Loop ended\")",
+        "detail": "loops.forloop",
+        "documentation": {}
+    },
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "operations.dict_operations",
+        "description": "operations.dict_operations",
+        "peekOfCode": "dict1 = {\"a\":1, \"b\":2 }\ndict2 = {\"a\":3, \"b\":4 }\ndict2.update(dict1)\nprint(dict2)\n# comparing a dictionary\ndict1 = {\"a\":1, \"b\":2 }\ndict2 = {\"a\":3, \"b\":4 }\nprint( dict1 == dict2)\n#length of a dict\nprint(len(dict1))",
+        "detail": "operations.dict_operations",
+        "documentation": {}
+    },
+    {
+        "label": "dict2",
+        "kind": 5,
+        "importPath": "operations.dict_operations",
+        "description": "operations.dict_operations",
+        "peekOfCode": "dict2 = {\"a\":3, \"b\":4 }\ndict2.update(dict1)\nprint(dict2)\n# comparing a dictionary\ndict1 = {\"a\":1, \"b\":2 }\ndict2 = {\"a\":3, \"b\":4 }\nprint( dict1 == dict2)\n#length of a dict\nprint(len(dict1))\n# sorting items in dict",
+        "detail": "operations.dict_operations",
+        "documentation": {}
+    },
+    {
+        "label": "dict1",
+        "kind": 5,
+        "importPath": "operations.dict_operations",
+        "description": "operations.dict_operations",
+        "peekOfCode": "dict1 = {\"a\":1, \"b\":2 }\ndict2 = {\"a\":3, \"b\":4 }\nprint( dict1 == dict2)\n#length of a dict\nprint(len(dict1))\n# sorting items in dict\ndict3 = {\"a\":1, \"b\":2, \"c\":3, }\nsort_dict = dict(sorted(dict3.items()))\nprint(sort_dict)",
+        "detail": "operations.dict_operations",
+        "documentation": {}
+    },
+    {
+        "label": "dict2",
+        "kind": 5,
+        "importPath": "operations.dict_operations",
+        "description": "operations.dict_operations",
+        "peekOfCode": "dict2 = {\"a\":3, \"b\":4 }\nprint( dict1 == dict2)\n#length of a dict\nprint(len(dict1))\n# sorting items in dict\ndict3 = {\"a\":1, \"b\":2, \"c\":3, }\nsort_dict = dict(sorted(dict3.items()))\nprint(sort_dict)",
+        "detail": "operations.dict_operations",
+        "documentation": {}
+    },
+    {
+        "label": "dict3",
+        "kind": 5,
+        "importPath": "operations.dict_operations",
+        "description": "operations.dict_operations",
+        "peekOfCode": "dict3 = {\"a\":1, \"b\":2, \"c\":3, }\nsort_dict = dict(sorted(dict3.items()))\nprint(sort_dict)",
+        "detail": "operations.dict_operations",
+        "documentation": {}
+    },
+    {
+        "label": "sort_dict",
+        "kind": 5,
+        "importPath": "operations.dict_operations",
+        "description": "operations.dict_operations",
+        "peekOfCode": "sort_dict = dict(sorted(dict3.items()))\nprint(sort_dict)",
+        "detail": "operations.dict_operations",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "operations.list_operations",
+        "description": "operations.list_operations",
+        "peekOfCode": "list1 = [\"John\", False, 20, 0.7, 9]\nprint(len(list1))# checking the length of a list\nlist1.remove(9) # removing a value from a list\nprint(len(list1))\n# Concatenating lists\nlist2 = [\"John\", 20, 30]\nnew_list = list1 + list2\nprint(new_list)\n# clear() removes everything from a list\nlist2.clear()",
+        "detail": "operations.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "list2",
+        "kind": 5,
+        "importPath": "operations.list_operations",
+        "description": "operations.list_operations",
+        "peekOfCode": "list2 = [\"John\", 20, 30]\nnew_list = list1 + list2\nprint(new_list)\n# clear() removes everything from a list\nlist2.clear()\nprint(list2)\n# count\ncount_items = new_list.count(20)\nprint(count_items)\n# sort(only sort number)",
+        "detail": "operations.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "new_list",
+        "kind": 5,
+        "importPath": "operations.list_operations",
+        "description": "operations.list_operations",
+        "peekOfCode": "new_list = list1 + list2\nprint(new_list)\n# clear() removes everything from a list\nlist2.clear()\nprint(list2)\n# count\ncount_items = new_list.count(20)\nprint(count_items)\n# sort(only sort number)\nunsort_items = [29,10,23,1,5,67]",
+        "detail": "operations.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "count_items",
+        "kind": 5,
+        "importPath": "operations.list_operations",
+        "description": "operations.list_operations",
+        "peekOfCode": "count_items = new_list.count(20)\nprint(count_items)\n# sort(only sort number)\nunsort_items = [29,10,23,1,5,67]\nunsort_items.sort()\nprint(\"These are the sorted items: \",unsort_items)\n# reverse items\nunsort_items.reverse()\nprint(unsort_items)\n# copying",
+        "detail": "operations.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "unsort_items",
+        "kind": 5,
+        "importPath": "operations.list_operations",
+        "description": "operations.list_operations",
+        "peekOfCode": "unsort_items = [29,10,23,1,5,67]\nunsort_items.sort()\nprint(\"These are the sorted items: \",unsort_items)\n# reverse items\nunsort_items.reverse()\nprint(unsort_items)\n# copying\ncopy_item = unsort_items.copy()\nprint(copy_item)",
+        "detail": "operations.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "copy_item",
+        "kind": 5,
+        "importPath": "operations.list_operations",
+        "description": "operations.list_operations",
+        "peekOfCode": "copy_item = unsort_items.copy()\nprint(copy_item)",
+        "detail": "operations.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "tuple1",
+        "kind": 5,
+        "importPath": "operations.tuple_operations",
+        "description": "operations.tuple_operations",
+        "peekOfCode": "tuple1 = (1, False, \"10\")\nprint(tuple1)\n# unpacking a tuple\na,b,c = tuple1\nprint(\"The assignrd to a :\", a)\n# tuple comparison\ntuple2 = (1,2,4)\ntuple3 = (1,2,3)\nprint(tuple2 == tuple3) # outputs a false\n# deleting a tuple",
+        "detail": "operations.tuple_operations",
+        "documentation": {}
+    },
+    {
+        "label": "a,b,c",
+        "kind": 5,
+        "importPath": "operations.tuple_operations",
+        "description": "operations.tuple_operations",
+        "peekOfCode": "a,b,c = tuple1\nprint(\"The assignrd to a :\", a)\n# tuple comparison\ntuple2 = (1,2,4)\ntuple3 = (1,2,3)\nprint(tuple2 == tuple3) # outputs a false\n# deleting a tuple\ntuple4 = (1,2,3,4,5)\ndel tuple4\ntuple5 = (\"John\", False, 20, 0.7)",
+        "detail": "operations.tuple_operations",
+        "documentation": {}
+    },
+    {
+        "label": "tuple2",
+        "kind": 5,
+        "importPath": "operations.tuple_operations",
+        "description": "operations.tuple_operations",
+        "peekOfCode": "tuple2 = (1,2,4)\ntuple3 = (1,2,3)\nprint(tuple2 == tuple3) # outputs a false\n# deleting a tuple\ntuple4 = (1,2,3,4,5)\ndel tuple4\ntuple5 = (\"John\", False, 20, 0.7)\nslice_tuple = tuple5[1:1:3]\nprint(slice_tuple)",
+        "detail": "operations.tuple_operations",
+        "documentation": {}
+    },
+    {
+        "label": "tuple3",
+        "kind": 5,
+        "importPath": "operations.tuple_operations",
+        "description": "operations.tuple_operations",
+        "peekOfCode": "tuple3 = (1,2,3)\nprint(tuple2 == tuple3) # outputs a false\n# deleting a tuple\ntuple4 = (1,2,3,4,5)\ndel tuple4\ntuple5 = (\"John\", False, 20, 0.7)\nslice_tuple = tuple5[1:1:3]\nprint(slice_tuple)",
+        "detail": "operations.tuple_operations",
+        "documentation": {}
+    },
+    {
+        "label": "tuple4",
+        "kind": 5,
+        "importPath": "operations.tuple_operations",
+        "description": "operations.tuple_operations",
+        "peekOfCode": "tuple4 = (1,2,3,4,5)\ndel tuple4\ntuple5 = (\"John\", False, 20, 0.7)\nslice_tuple = tuple5[1:1:3]\nprint(slice_tuple)",
+        "detail": "operations.tuple_operations",
+        "documentation": {}
+    },
+    {
+        "label": "tuple5",
+        "kind": 5,
+        "importPath": "operations.tuple_operations",
+        "description": "operations.tuple_operations",
+        "peekOfCode": "tuple5 = (\"John\", False, 20, 0.7)\nslice_tuple = tuple5[1:1:3]\nprint(slice_tuple)",
+        "detail": "operations.tuple_operations",
+        "documentation": {}
+    },
+    {
+        "label": "slice_tuple",
+        "kind": 5,
+        "importPath": "operations.tuple_operations",
+        "description": "operations.tuple_operations",
+        "peekOfCode": "slice_tuple = tuple5[1:1:3]\nprint(slice_tuple)",
+        "detail": "operations.tuple_operations",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "kind": 5,
+        "importPath": "tuples.tuple",
+        "description": "tuples.tuple",
+        "peekOfCode": "Tuple = ('John', True, 2.5)\ntupl = Tuple[1]\nprint(tupl)\nTuple2 = Tuple[0:2]\nprint(Tuple2)\nTuple[0] = 'Mary'\nprint(Tuple)",
+        "detail": "tuples.tuple",
+        "documentation": {}
+    },
+    {
+        "label": "tupl",
+        "kind": 5,
+        "importPath": "tuples.tuple",
+        "description": "tuples.tuple",
+        "peekOfCode": "tupl = Tuple[1]\nprint(tupl)\nTuple2 = Tuple[0:2]\nprint(Tuple2)\nTuple[0] = 'Mary'\nprint(Tuple)",
+        "detail": "tuples.tuple",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple2",
+        "kind": 5,
+        "importPath": "tuples.tuple",
+        "description": "tuples.tuple",
+        "peekOfCode": "Tuple2 = Tuple[0:2]\nprint(Tuple2)\nTuple[0] = 'Mary'\nprint(Tuple)",
+        "detail": "tuples.tuple",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple[0]",
+        "kind": 5,
+        "importPath": "tuples.tuple",
+        "description": "tuples.tuple",
+        "peekOfCode": "Tuple[0] = 'Mary'\nprint(Tuple)",
+        "detail": "tuples.tuple",
+        "documentation": {}
+    },
+    {
+        "label": "month",
+        "kind": 5,
+        "importPath": "hello_world",
+        "description": "hello_world",
+        "peekOfCode": "month = \"January\"\nage=30\nis_teacher = True\nprint(month)\nprint(age)\nprint(is_teacher)",
+        "detail": "hello_world",
+        "documentation": {}
+    },
+    {
+        "label": "is_teacher",
+        "kind": 5,
+        "importPath": "hello_world",
+        "description": "hello_world",
+        "peekOfCode": "is_teacher = True\nprint(month)\nprint(age)\nprint(is_teacher)",
+        "detail": "hello_world",
+        "documentation": {}
+    }
+]
