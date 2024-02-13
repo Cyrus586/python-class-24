@@ -1,0 +1,4 @@
+1. create a repository and name it
+2. set up branches eg bug fixies
+3. collaborate on Code , copy the repository using git clone
+4. pull everything done by the our user
