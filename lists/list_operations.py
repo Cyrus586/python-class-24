@@ -15,3 +15,6 @@ newvalues = "Mary"
 list2[1] = "Doe"
 print("After updating index 2:", list2[1])
 print(list2)
+
+list3 = [1,2,3,4]
+print(list3[0])

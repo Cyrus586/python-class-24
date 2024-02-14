@@ -16,6 +16,96 @@
         "documentation": {}
     },
     {
+        "label": "Human",
+        "kind": 6,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "class Human:\n    def brain(self):\n        return \"Thinking\"\nclass Cow(Human):\n    def brain(self):\n        return \"Closure\"\nclass Goat(Human):\n    def brain(self):\n        return \"Meow\"\n# polymorphism example 1",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "Cow",
+        "kind": 6,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "class Cow(Human):\n    def brain(self):\n        return \"Closure\"\nclass Goat(Human):\n    def brain(self):\n        return \"Meow\"\n# polymorphism example 1\ndef make_sound(animal):\n    return animal.brain()\ncow = Cow()",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "Goat",
+        "kind": 6,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "class Goat(Human):\n    def brain(self):\n        return \"Meow\"\n# polymorphism example 1\ndef make_sound(animal):\n    return animal.brain()\ncow = Cow()\ngoat = Goat()\nprint(make_sound(cow))\nprint(make_sound(goat))",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "kind": 6,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "class Point:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n    def __add__(self, other):\n        return Point(self.x + other.x, self.y + other.y)\np1 = Point(1,2)\np2 = Point(28,12)\nresult = p1 + p2\nprint(f\"Result: {result.x}, {result.y}\")",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "make_sound",
+        "kind": 2,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "def make_sound(animal):\n    return animal.brain()\ncow = Cow()\ngoat = Goat()\nprint(make_sound(cow))\nprint(make_sound(goat))\n# polymorphism example 2\nclass Point:\n    def __init__(self, x, y):\n        self.x = x",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "cow",
+        "kind": 5,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "cow = Cow()\ngoat = Goat()\nprint(make_sound(cow))\nprint(make_sound(goat))\n# polymorphism example 2\nclass Point:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n    def __add__(self, other):",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "goat",
+        "kind": 5,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "goat = Goat()\nprint(make_sound(cow))\nprint(make_sound(goat))\n# polymorphism example 2\nclass Point:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n    def __add__(self, other):\n        return Point(self.x + other.x, self.y + other.y)",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "p1",
+        "kind": 5,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "p1 = Point(1,2)\np2 = Point(28,12)\nresult = p1 + p2\nprint(f\"Result: {result.x}, {result.y}\")",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "p2",
+        "kind": 5,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "p2 = Point(28,12)\nresult = p1 + p2\nprint(f\"Result: {result.x}, {result.y}\")",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "assignments.asigment_11.class_1",
+        "description": "assignments.asigment_11.class_1",
+        "peekOfCode": "result = p1 + p2\nprint(f\"Result: {result.x}, {result.y}\")",
+        "detail": "assignments.asigment_11.class_1",
+        "documentation": {}
+    },
+    {
         "label": "month",
         "kind": 5,
         "importPath": "assignments.asignment_1.hello_world",
@@ -31,6 +121,69 @@
         "description": "assignments.asignment_1.hello_world",
         "peekOfCode": "is_teacher = True\nprint(month)\nprint(age)\nprint(is_teacher)",
         "detail": "assignments.asignment_1.hello_world",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "assignments.asignment_10.class",
+        "description": "assignments.asignment_10.class",
+        "peekOfCode": "class Person:\n    def __init__(self, name, age):\n        self.name = name\n        self.age = age\n    def greet(self):\n        return f\"Hello, my name is {self.name} and i am {self.age} yrs old. \"\n    @property\n    def is_adult(self):\n        return self.age >= 18\n    def celebrate(self):",
+        "detail": "assignments.asignment_10.class",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "assignments.asignment_10.class",
+        "description": "assignments.asignment_10.class",
+        "peekOfCode": "class Car(Person): # inheritance\n    def __init__(self, make, model, year):\n        self.make = make\n        self.model = model\n        self.year = year\n        self.is_running = False\n    def start_engine(self):\n        self.is_running = True\n        print(\"The car engine has started\")\n        print(self.is_running)",
+        "detail": "assignments.asignment_10.class",
+        "documentation": {}
+    },
+    {
+        "label": "my_self",
+        "kind": 5,
+        "importPath": "assignments.asignment_10.class",
+        "description": "assignments.asignment_10.class",
+        "peekOfCode": "my_self = Person(\"Aksam\",25) # object\n# accessing properties\nprint(my_self.name)\nprint(my_self.age)\n# calling methods\nprint(my_self.greet())\nprint(my_self.is_adult)\nmy_self.celebrate()\nprint(my_self.age)\nprint(my_self.is_adult)",
+        "detail": "assignments.asignment_10.class",
+        "documentation": {}
+    },
+    {
+        "label": "make",
+        "kind": 5,
+        "importPath": "assignments.asignment_10.class",
+        "description": "assignments.asignment_10.class",
+        "peekOfCode": "make = str(input(\"Please enter car make: \"))\nmodel = str(input(\"Please enter car model: \"))\nyear = int(input(\"Please enter car year: \"))\nmy_car = Car(make, model, year)\nprint(my_car.start_engine())\nprint(my_car.stop_engine())",
+        "detail": "assignments.asignment_10.class",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "assignments.asignment_10.class",
+        "description": "assignments.asignment_10.class",
+        "peekOfCode": "model = str(input(\"Please enter car model: \"))\nyear = int(input(\"Please enter car year: \"))\nmy_car = Car(make, model, year)\nprint(my_car.start_engine())\nprint(my_car.stop_engine())",
+        "detail": "assignments.asignment_10.class",
+        "documentation": {}
+    },
+    {
+        "label": "year",
+        "kind": 5,
+        "importPath": "assignments.asignment_10.class",
+        "description": "assignments.asignment_10.class",
+        "peekOfCode": "year = int(input(\"Please enter car year: \"))\nmy_car = Car(make, model, year)\nprint(my_car.start_engine())\nprint(my_car.stop_engine())",
+        "detail": "assignments.asignment_10.class",
+        "documentation": {}
+    },
+    {
+        "label": "my_car",
+        "kind": 5,
+        "importPath": "assignments.asignment_10.class",
+        "description": "assignments.asignment_10.class",
+        "peekOfCode": "my_car = Car(make, model, year)\nprint(my_car.start_engine())\nprint(my_car.stop_engine())",
+        "detail": "assignments.asignment_10.class",
         "documentation": {}
     },
     {
@@ -862,11 +1015,56 @@
         "documentation": {}
     },
     {
-        "label": "my_day",
+        "label": "deposit",
+        "kind": 2,
+        "importPath": "assignments.asignment_9.bank_info",
+        "description": "assignments.asignment_9.bank_info",
+        "peekOfCode": "def deposit(balance, amount):\n    \"Function to deposit money\"\n    balance += amount\n    return balance\ndef withdraw(balance,amount):\n    \"Function to withdraw money\"\n    if amount <= balance: # checks if a user is eligable to withdraw\n        balance -= amount\n        return balance, True # if their is money in the bank it will be successful\n    else:",
+        "detail": "assignments.asignment_9.bank_info",
+        "documentation": {}
+    },
+    {
+        "label": "withdraw",
+        "kind": 2,
+        "importPath": "assignments.asignment_9.bank_info",
+        "description": "assignments.asignment_9.bank_info",
+        "peekOfCode": "def withdraw(balance,amount):\n    \"Function to withdraw money\"\n    if amount <= balance: # checks if a user is eligable to withdraw\n        balance -= amount\n        return balance, True # if their is money in the bank it will be successful\n    else:\n        return balance, False # if their is no money in the bank it will be unsuccessful\ndef bank_info():\n    \"Function for user interaction\"\n    balance = 0",
+        "detail": "assignments.asignment_9.bank_info",
+        "documentation": {}
+    },
+    {
+        "label": "bank_info",
+        "kind": 2,
+        "importPath": "assignments.asignment_9.bank_info",
+        "description": "assignments.asignment_9.bank_info",
+        "peekOfCode": "def bank_info():\n    \"Function for user interaction\"\n    balance = 0\n    print(\"Welcome to Cyberspace Maze Bank!\")\n    while True:\n        print(\"\\nWhat would you like to do:\")\n        print(\"A: Deposit money\")\n        print(\"B: Withdraw money\")\n        print(\"C: Exit\")\n        choice = input(\"Enter your choice: \")",
+        "detail": "assignments.asignment_9.bank_info",
+        "documentation": {}
+    },
+    {
+        "label": "user_option",
         "kind": 5,
+        "importPath": "assignments.asignment_9.bank_info",
+        "description": "assignments.asignment_9.bank_info",
+        "peekOfCode": "user_option = input(\"Enter your option: \")\nprint(\"-----------------------------\")\nif (user_option == \"a\" or user_option == \"A\"):\n    withdraw = float(input(\"Enter amount to be withdrawn: \"))\n    account_balance = float(input(\"Enter the current amount in your bank account: \"))\n    def subtract_amount(withdraw, account_balance):\n        result = account_balance - withdraw \n        print(\"Your new account balance is: \", result)\n        print(str(account_balance) + \" - \" + str(withdraw) + \" = \" + str(result) + \"Shs. \" )\n        print(\"------------------\")",
+        "detail": "assignments.asignment_9.bank_info",
+        "documentation": {}
+    },
+    {
+        "label": "input_day",
+        "kind": 2,
         "importPath": "assignments.asignment_9.day",
         "description": "assignments.asignment_9.day",
-        "peekOfCode": "my_day = int(input(\"Enter the current day of the week (1-7): \"))\nif my_day == 1:\n    print(\"Monday: Organizing for the week ahead\")\nelif my_day == 2:\n    print(\"Tuesday: Planing my time table to code for the week\")\nelif my_day == 3:\n    print(\"Wednesday: Taking my clothes to the washing machine\")\nelif my_day == 4:\n    print(\"Thursday: Playing games on my PS4 consle and coming to the institute\")\nelif my_day == 5:",
+        "peekOfCode": "def input_day():\n    print(\"EXAMPLE 1\")\n    my_day = int(input(\"Enter the current day of the week (1-7): \"))\n    if my_day == 1:\n        print(\"Monday: Organizing for the week ahead\")\n    elif my_day == 2:\n        print(\"Tuesday: Planing my time table to code for the week\")\n    elif my_day == 3:\n        print(\"Wednesday: Taking my clothes to the washing machine\")\n    elif my_day == 4:",
+        "detail": "assignments.asignment_9.day",
+        "documentation": {}
+    },
+    {
+        "label": "current_daytime",
+        "kind": 2,
+        "importPath": "assignments.asignment_9.day",
+        "description": "assignments.asignment_9.day",
+        "peekOfCode": "def current_daytime():\n    current_day = datetime.now().weekday() + 1\n    if current_day == 1:\n        return \"Monday: Planing and Organizing for the week ahead\"\n    elif current_day == 2:\n        return \"Tuesday: Team meeting and collaboration\"\n    elif current_day == 3:\n        return \"Wednesday: Mid-week assessments and assignments from  the teacher\"\n    elif current_day == 4:\n        return \"Thursday: Playing games on my PS4 consle and coming to the institute\"",
         "detail": "assignments.asignment_9.day",
         "documentation": {}
     },
@@ -875,7 +1073,7 @@
         "kind": 2,
         "importPath": "assignments.asignment_9.whileloop",
         "description": "assignments.asignment_9.whileloop",
-        "peekOfCode": "def Checking_num():\n    numbers = [1,2,3,4,5,6]\n    counter = 0 # responsible for counting the even or odd nums\n    while counter < len(numbers):\n        # using an if statement to check if the current is even\n        if numbers[counter] % 2 == 0: # this is the even if statement\n            print(f\"{numbers[counter]} is even\")\n        else:\n            print(f\"{numbers[counter]} is odd\")\n        counter += 1",
+        "peekOfCode": "def Checking_num():\n    numbers = [1,2,3,4,5,6]\n    counter = 0 # responsible for counting the even or odd nums\n    while counter < len(numbers):\n        # using an if statement to check if the current is even\n        if numbers[counter] % 2 == 0: # this is the even if statement which checks if there are numbers that can be divisable by 2 \n            print(f\"{numbers[counter]} is even\")\n        else:\n            print(f\"{numbers[counter]} is odd\") # this else automatically \n        counter += 1",
         "detail": "assignments.asignment_9.whileloop",
         "documentation": {}
     },
@@ -947,7 +1145,7 @@
         "kind": 2,
         "importPath": "functions.function",
         "description": "functions.function",
-        "peekOfCode": "def Name(): \n    name = input('Enter your Name?: ') \n    return name  \ndef Age(): \n    age = input('Enter your age?: ') \n    print(Name(), age)\nAge()",
+        "peekOfCode": "def Name(): \n    name = input('Enter your Name?: ') \n    return name  \ndef Age(): \n    age = input('Enter your age?: ') \n    print(Name(), age)\nAge()\ndef function(one, two):\n    pass",
         "detail": "functions.function",
         "documentation": {}
     },
@@ -956,7 +1154,16 @@
         "kind": 2,
         "importPath": "functions.function",
         "description": "functions.function",
-        "peekOfCode": "def Age(): \n    age = input('Enter your age?: ') \n    print(Name(), age)\nAge()",
+        "peekOfCode": "def Age(): \n    age = input('Enter your age?: ') \n    print(Name(), age)\nAge()\ndef function(one, two):\n    pass",
+        "detail": "functions.function",
+        "documentation": {}
+    },
+    {
+        "label": "function",
+        "kind": 2,
+        "importPath": "functions.function",
+        "description": "functions.function",
+        "peekOfCode": "def function(one, two):\n    pass",
         "detail": "functions.function",
         "documentation": {}
     },
@@ -1055,7 +1262,7 @@
         "kind": 5,
         "importPath": "lists.list_operations",
         "description": "lists.list_operations",
-        "peekOfCode": "newvalues = \"Mary\"\n# updating list2[2]\nlist2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])\nprint(list2)",
+        "peekOfCode": "newvalues = \"Mary\"\n# updating list2[2]\nlist2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])\nprint(list2)\nlist3 = [1,2,3,4]\nprint(list3[0])",
         "detail": "lists.list_operations",
         "documentation": {}
     },
@@ -1064,8 +1271,26 @@
         "kind": 5,
         "importPath": "lists.list_operations",
         "description": "lists.list_operations",
-        "peekOfCode": "list2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])\nprint(list2)",
+        "peekOfCode": "list2[1] = \"Doe\"\nprint(\"After updating index 2:\", list2[1])\nprint(list2)\nlist3 = [1,2,3,4]\nprint(list3[0])",
         "detail": "lists.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "list3",
+        "kind": 5,
+        "importPath": "lists.list_operations",
+        "description": "lists.list_operations",
+        "peekOfCode": "list3 = [1,2,3,4]\nprint(list3[0])",
+        "detail": "lists.list_operations",
+        "documentation": {}
+    },
+    {
+        "label": "my_list",
+        "kind": 5,
+        "importPath": "loops.enumerator",
+        "description": "loops.enumerator",
+        "peekOfCode": "my_list = ['apples', 'bananas', 'cherry','Dates']\nfor index, value in enumerate(my_list):\n    print(f\"Index: {index}, value: {value}\")\n    print(f\"[{index}, {value}]\")",
+        "detail": "loops.enumerator",
         "documentation": {}
     },
     {

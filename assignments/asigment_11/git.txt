@@ -1,0 +1,14 @@
+1. clone a repository using `git clone`
+2. Navigate to the repository directory `git <repository_name>`
+3. Create a new branch  using `git checkout -b <branch_main>`
+4. Make changes
+5. stage and commit changes `git add . ` git commit `
+6. push the changes
+7. switch between branches
+8. merge branches `git checkout -b <branch_main>` git merge
+
+
+
+
+
+Polymorphism refers to the ability of different classes to be treated as instances of the same class hierachy
